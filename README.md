@@ -36,6 +36,6 @@ At a local library, the librarian learns that a patron is unable to access the i
 5. I was able to solve the issue and the laptop was able to connect to the internet.
 ![image](https://github.com/user-attachments/assets/ba34e834-e72c-4207-8be7-635a057cfede)
 
-
+![Screenshot from 2024-08-09 09-17-13](https://github.com/user-attachments/assets/0e395b5e-d5fd-464d-a129-054b008d7a32)
 
 
