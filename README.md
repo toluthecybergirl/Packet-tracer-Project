@@ -28,7 +28,12 @@ At a local library, the librarian learns that a patron is unable to access the i
 3. I used the ipconfig command to identify the default gateway of the router in order to connect the wireless pc to the wireless router.
 ![image](https://github.com/user-attachments/assets/4c4456ff-7220-4e98-a1c4-9ba48cdf96e6).
 
-4. I was able to solve the issue and the laptop was able to connect to the internet.
+
+![image](https://github.com/user-attachments/assets/252e159c-652f-49c5-a58e-f87a074ceaff)
+
+
+
+5. I was able to solve the issue and the laptop was able to connect to the internet.
 ![image](https://github.com/user-attachments/assets/ba34e834-e72c-4207-8be7-635a057cfede)
 
 
