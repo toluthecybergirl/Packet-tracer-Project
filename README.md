@@ -1,6 +1,6 @@
 # Packet Tracer - Troubleshoot a Wireless Connection
 
-#Objective
+# Objective
 
 Identify faults in a wireless network.
 Correct misconfigured devices in a wireless.
